@@ -1,7 +1,6 @@
-.circleci/ @magma/approvers-ci
-circleci/ @magma/approvers-ci
-
-ci-scripts/ @magma/approvers-ci
+radha
+testing
+ci-scripts/ @magma/approvers-ci 12345
 
 */cloud/ @magma/approvers-orc8r
 .golangci.yml @magma/approvers-orc8r
