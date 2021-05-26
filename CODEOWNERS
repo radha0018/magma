@@ -1,4 +1,4 @@
-# approvers-ci####### nitin
+# approvers-ci
 .circleci/ @magma/approvers-ci
 circleci/ @magma/approvers-ci
 ci-scripts/ @magma/approvers-ci
