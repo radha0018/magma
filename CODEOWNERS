@@ -1,5 +1,5 @@
-.circleci/ @tmdzk
-circleci/ @tmdzk @mattymo @119Vik
+.circleci/ @tmdzk testing
+123 testing circleci
 
 ci-scripts/ @rdefosse @tmdzk @mattymo @119Vik
 
