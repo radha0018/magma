@@ -1,4 +1,4 @@
-.circleci/ @tmdzk
+.circleci/ 1234
 circleci/ @tmdzk @mattymo @119Vik
 
 ci-scripts/ @rdefosse @tmdzk @mattymo @119Vik
@@ -18,7 +18,7 @@ cwf/ @themarwhal @mpgermano @uri200 @emakeev
 cwf/gateway/Vagrantfile @mattymo @119Vik @tmdzk
 
 
-openwrt/ @emakeev @uri200
+openwrt/ @emakeev @rad123214324
 
 # More specific mappings for lte/gateway will override this top-level one
 lte/gateway @ardzoht @pshelar
