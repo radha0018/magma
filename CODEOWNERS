@@ -1,5 +1,5 @@
 radhakrishna testing magma radha 123
-.circleci/ @magma/approvers-ci
+.circleci/ @radha testing 123
 circleci/ @magma/approvers-ci
 ci-scripts/ @magma/approvers-ci
 .github/workflows/ @magma/approvers-ci
@@ -30,7 +30,7 @@ cwf/ @magma/approvers-cwf
 openwrt/ @magma/approvers-openwrt
 
 # approvers-agw / approvers-agw-python / approvers-agw-c
-lte/gateway @magma/approvers-agw
+lte/testing gt12321341233124
 lte/protos @magma/approvers-agw
 lte/gateway/python @magma/approvers-agw-python
 lte/gateway/c @magma/approvers-agw-c
