@@ -1,5 +1,5 @@
-radha
-testing
+radha23
+testing34
 ci-scripts/ @magma/approvers-ci 12345
 
 */cloud/ @magma/approvers-orc8r
@@ -53,3 +53,4 @@ docs/ @magma/approvers-docs
 docs/readmes/proposals @electronjoe
 
 CODEOWNERS @amarpad @electronjoe
+radha123
